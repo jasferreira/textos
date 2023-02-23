@@ -1,0 +1,151 @@
+JBS S. A. (JBS) is a meat processor headquartered in Brazil.
+Over 90% of its reported emissions are from farms and
+feedlots for rearing cattle. The company plans to continue
+growth in a GHG emission-intensive industry; we did not find
+evidence of any planned deep decarbonisation measures.
+JBS does not have an emission reduction target alongside
+its net-zero emission target for 2040. Its interim targets for
+2030 would lead to a 3% emission reduction compared to its
+reported 2021 emissions.
+Key developments over the past year: We could identify
+only minor changes to JBS’s sustainability strategy since our
+previous analysis of the case study in the 2022 Corporate Climate
+Responsibility Monitor (Day et al., 2022). Most notably, JBS has
+increased its share of reported scope 3 emissions, although
+key emission sources are still excluded. Otherwise, only minor
+modifications were made to this case study.
+JBS does not specify what share of its 2040 net-zero target
+will be based on emission reductions and what share will rely
+on offsetting. In its communication on its net-zero target, JBS
+says that it wants to reduce direct and indirect GHG emissions,
+while offsetting residual emissions (JBS, 2022, pp. 7, 63). We
+could not identify an emission reduction target accompanying
+its net-zero headline pledge. It is therefore unclear what share
+of JBS’s emissions footprint will be offset by 2040. Given
+the limited detail on emission reduction measures and the
+expected continuous growth of the company, this share could
+be significant. JBS does not specify any details regarding what
+kind of offsetting projects it will procure credits from, the
+potential volume of credits it envisages needing, nor general
+criteria for ensuring robust environmental integrity in any
+offsetting claims it may make.
+JBS’s formulation of its interim emission intensity target
+for scope 1 and 2 is not transparent, and the target is highly
+insufficient, omitting the company’s main emission sources.
+JBS says it wants to reduce scope 1 and 2 emissions intensity by
+at least 30% by 2030 compared to 2019 (JBS, 2021, p. 11), but is
+presented as an absolute target in its most recent sustainability
+report (JBS, 2022, p. 16). This inconsistency undermines the
+transparency of the target. Moreover, since its reported scope
+3 emissions accounted for over 90% of its total emissions
+footprint in 2021 (JBS, 2022, p. 19), the target is also highly
+insufficient. We did not identify substantial emission reduction
+targets for JBS’s most important emission sources in scope 3,
+which are primarily related to cattle rearing, including emissions
+from enteric fermentation, feed and manure.
+We could not find significant details on how JBS intends
+to achieve its 2030 emission intensity target and 2040
+net-zero target. Rather, JBS plans to continue growth in
+a GHG emission-intensive industry. We did not identify a
+comprehensive emission reduction strategy: the company
+provides minimal detail on how it wants to realise its targets.
+We did not find evidence that JBS intends to substantially
+innovate or diversify from its current activities. Without major
+innovations to drastically reduce the emissions footprint of
+meat production or diversifying away from this highly GHG
+emissions intensive industry, it is not credible for livestock
+agribusinesses to claim that they are on a path to deep
+decarbonisation. JBS describes it is in the process of developing
+an emission reduction strategy, but this is not expected before
+late 2023 (JBS, 2022, p. 10).
+JBS aims for 60% renewable electricity in its facilities by
+2030 and 100% by 2040 but provides little information
+about current and planned renewable energy supply
+constructs. The company claims that renewable electricity
+accounted for a major share of its consumption in 2021 (43%)
+(JBS, 2022, p. 68). JBS has some renewable energy generation
+on-site, using solar systems and residue biogas (JBS, 2022, p.
+67). The company aims for 60% renewable energy by 2030
+and 100% by 2040 (JBS, 2022, p. 16). To achieve this, on-site
+generation and high-quality energy procurement structures
+are necessary. However, the company does not specify what
+procurement constructs it currently uses and what it plans to
+use. It remains unclear whether these targets are credible.
+JBS includes a larger share of emissions in its disclosure, but
+the data is still not presented transparently, and land-use
+changes related to rearing cattle are excluded. In its 2022
+sustainability report, JBS included more emission sources in its
+emissions reporting, compared to its 2021 sustainability report
+(JBS, 2021, p. 43, 2022, pp. 64–65). JBS says that key emission
+sources including enteric fermentation, feed and manure
+management are included in its reported scope 3 emissions, but
+the company does not provide a breakdown of the emissions
+to these sources (JBS, 2022, pp. 64–65). Moreover, land-use
+change emissions related to rearing cattle are not covered
+for its emissions reporting for Brazil (JBS, 2022, p. 65). With
+the current level of detail, JBS’s emissions disclosure does not
+allow for a thorough understanding of the emission sources and
+effectiveness of potential mitigation measures.
+With its Fund for the Amazon programme, JBS will contribute
+to local sustainable development without claiming
+neutralisation, but these contributions are significantly
+lower than is required to be in proportion to the company’s
+climate footprint, equating to only 0.01% of JBS’ annual
+revenue. With projects such as ‘RestaurAmazônia’ and
+‘Release Credit for Forest Bioeconomy’, JBS wants to support
+projects related to sustainable development in the Amazon
+biome (Fund for the Amazon, 2022b, 2022c). These projects
+are framed as contributions; we did not find evidence that
+JBS intends to claim neutralisation of emissions based on the
+projects’ outcome. However, JBS will contribute a maximum
+USD 93 million to the fund up to 2030 (Fund for the Amazon,
+2022a), equal to roughly 0.01% of its revenue. The volume of
+this financial contribution is equivalent to a carbon price on
+the company’s emissions footprint of approximately just 0.13
+USD per tonne CO2e. This is substantially lower than the range
+of emerging carbon price recommendations for meaningful
+climate contributions, that equate to at least 80 USD per tonne
+of CO2e (see section 4.2 of the Methodology).
+ntegrity assessment for short- and
+medium-term target(s) towards 2030
+What do the short- and medium-term targets actually mean?
+What are the targets for the short to medium term?
+JBS has a target to reduce its scope 1 and 2 emission intensity by 30% by 2030 from a 2019 baseline.
+How do these targets equate to emission reductions across the value chain (compared to a 2019 baseline)?
+We cannot quantify JBS’s intensity target in terms of absolute emission reductions below 2019 levels due to a lack of publicly
+available information.
+Do these targets cover both the short term (within 5 years) and medium term (up to 2030)?
+JBS does not commit to earlier interim targets within a five-year time horizon.
+Do these emission reduction commitments align with a 1.5°C trajectory for the sector according to available literature?
+JBS’s 2030 targets are not aligned with any of the few 1.5°C Paris Agreement-aligned milestones for the livestock sector
+available in the literature.
+Agricultural emissions, including those from enteric fermentation and manure management, need to reduce significantly before
+2030 (Boehm et al., 2022, p. 120). Teske (2022, p. 328) identifies 1.5°C-aligned absolute emission reduction milestones for various
+emission sources of agricultural activities. Emissions from fuel use on farms, heat used for food processing and -packaging need to
+reduce by 48%, emissions from purchased electricity on a farm-level or used for food processing and -packaging need to reduce
+67%, and emissions AFOLU, non-CO2 GHGs need to reduce by 34% by 2030. In sum, these required reductions mean a reduction
+of 38% across all scopes, below 2019 levels. We did not identify any information indicating that JBS’s emission intensity target
+aligns with the latter.
+We did not identify any targets for a reduction of scope 3 emissions in the short- and medium-term in JBS’ public communications.
+Integrity assessment for long-term
+target(s) (post-2030)
+What do the long-term targets actually mean?
+What are the targets for the long term beyond 2030?
+JBS pledges to have net-zero emissions by 2040.
+How do these targets equate to emission reductions across the value chain (compared to a 2019 baseline)?
+JBS does not commit to a deep emissions reduction target alongside its 2040 net-zero pledge. The company only makes a vague
+statement that it intends to offset residual emissions in the target year to achieve the target. Since the company’s net-zero pledge
+does not entail any commitment to deep decarbonisation (i.e., reduction of at least 90% of 2019 emissions across the entire value
+chain), we consider that the terminology of this target may be misleading. This position is in line with the ISO Net Zero Guidelines
+and the SBTi Net Zero Standard (SBTi, 2021c; ISO, 2022b). Net-zero targets can give consumers and investors the impression
+that the company aims to reach deep levels of emission reductions, which JBS does not commit to.
+Is this emission reduction commitment in line with 1.5°C-compatible trajectories or benchmarks for the sector?
+We consider the lack of any post-2030 emission reduction target alongside JBS’s net-zero pledge as highly insufficient
+considering the need for deep and credible emission reductions towards mid-century to stand a reasonable chance of limiting
+global warming to 1.5°C (IPCC, 2022).
+Further assumptions for aggregate analysis in Section A
+For our aggregate analysis across all 24 companies in Section A of this report, we make the simplified most optimistic assumption
+that companies’ intensity targets equal absolute emission reduction targets. For this purpose, we interpret JBS’s intensity
+target (50% by 2030 below 2019 levels for scope 1 and 2) to be an absolute target assuming constant activity levels. Under this
+assumption, the target translates to a 3% reduction by 2030 below 2019 levels across the entire value chain. We do not use this
+estimate for the company-specific integrity assessment of JBS in Section B.
