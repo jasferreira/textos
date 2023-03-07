@@ -1,0 +1,341 @@
+Biodiversidade
+
+Temos um especial cuidado relacionado ao controle de desmatamento em nossa cadeia de fornecimento. Desde 2009, assumimos o compromisso de não adquirir animais provenientes de áreas embargadas, em qualquer parte do país. Aplicamos esse critério não apenas na Amazônia, mas também no Cerrado, Mata Atlântica, Pantanal e Pampa, que são todas as regiões das quais adquirimos animais para nossas unidades fabris. Atualmente, 100% de nossos fornecedores atendem a esse critério.
+
+Como parte deste esforço, estabelecemos diretrizes estratégicas e operacionais que são concretizadas em planos de ação para fortalecer o controle da origem do gado e mitigar quaisquer riscos de fornecimento de animais provenientes de zonas críticas associadas ao desmatamento – tanto em áreas particulares quanto em áreas protegidas, como terras indígenas e mesmo Unidades de Conservação. O mesmo critério é usado para condições de trabalho degradantes e ilegais.
+
+Ampliando essa atuação, lançamos o Programa Marfrig Verde+, em julho de 2020, como parte de seus compromissos com o desmatamento zero, a rastreabilidade, a inclusão e a transparência.
+
+Monitoramento
+Outra importante linha de trabalho voltada para a preservação da biodiversidade - e que também contribui para a redução de emissão de gases de efeito estufa (GEE)- é o monitoramento de focos de calor, que indicam a ocorrência de queimadas nas propriedades. Sempre que qualquer sobreposição de fazendas e focos de incêndio é identificada, um alerta é acionado e a negociação dos animais é reavaliada, até que a situação seja totalmente esclarecida. O alerta faz com que nossas equipes entrem em contato com os fornecedores envolvidos para verificar quaisquer ocorrências e tomar medidas de mitigação. 
+
+Esse controle abrangente e completo é possível graças à plataforma de monitoramento geoespacial via satélite, que acompanha todas as fazendas que fornecem animais para nossas unidades de produção. O sistema cruza dados georreferenciados e documentos das fazendas com informações públicas oficiais para identificar potenciais não conformidades. 
+
+O sistema de monitoramento do bioma amazônico inclui uma auditoria independente realizada pela empresa norueguesa DNV.GL. Esse procedimento assegura que a plataforma de monitoramento esteja funcionando efetivamente na prevenção da aquisição de gado ilegal na região. Alcançamos 100% de conformidade nessas auditorias e o resultado do processo mais recente pode ser visualizado em nosso site. 
+
+Um dos resultados das ações de monitoramento é a ferramenta “Mapa de Mitigação de Riscos”, uma combinação de diferentes mapas de indicadores socioambientais, como áreas de desmatamento, ocorrências de trabalhos forçados e áreas de pastagens e vegetação nativa preservadas. Essas informações são cruzadas com os dados de rebanhos de gado existentes nas mesmas áreas e, por meio de uma análise estatística, obtemos uma matriz com diferentes graus de risco: desde muito alto até risco muito baixo. A matriz é representada em um mapa geográfico com diferentes cores, que variam de acordo com o risco que indicam. Quando combinamos a avaliação do Mapa de Mitigação de Riscos aos mapas das fazendas – coletados junto aos pode meio das RFIs (Requests for Information) e do protocolo Marfrig Club –, podemos verificar quais áreas estão mais expostas ao risco de desmatamento. Assim, utilizamos a inteligência de dados para identificar quais fornecedores diretos e indiretos estão mais expostos e em áreas socioambientais vulneráveis.
+
+Mapa de Risco de Desmatamento
+O ano de 2021 foi o primeiro em que utilizamos essa ferramenta, que havia sido concluída no fim de 2020. Com ela, aprimoramos ainda mais as práticas de compra responsável: passamos a ter informações que resultam do “cruzamento” de vários tipos de mapas: desde aqueles com indicadores socioambientais, incluindo áreas de desmatamento, de pastagens e vegetação nativa preservadas, além de ocorrências de trabalhos forçados ou com mão de obra infantil. A esses, adicionamos outro mapa, com informações sobre o rebanho de gado presente em determinado espaço. A combinação dessas duas abordagens (indicadores socioambientais x pecuária), com a elaboração de uma matriz de risco, transformada em mapa geográfico, era algo inédito para a cadeia pecuária, até então. Por meio dele, conseguimos identificar e priorizar ações nas áreas mais expostas a riscos socioambientais nos biomas Amazônia e Cerrado.  A consolidação dessas informações nos fornece uma matriz com diferentes graus de risco, desde “baixo” até “muito alto”, sinalizados, no mapa, com diferentes cores. 
+
+Tal abordagem, baseada em zonas de risco, permitiu que iniciássemos o trabalho de engajamento e monitoramento. Começamos pelos fornecedores localizados em áreas de muito alto risco, até chegarmos nas áreas de muito baixo risco. Pudemos, assim, construir uma abordagem progressiva, de forma a atuar de maneira estratégica para engajá-los em nossos esforços de alcançar uma cadeia de valor livre de desmatamento/conversão. Um exemplo dos avanços, nessa interação com os pecuaristas, é que os fornecedores diretos passaram a ser anualmente requisitados a prover informações sobre seus fornecedores de gado. Com isso, poderemos aumentar a visibilidade da cadeia, chegando até as etapas iniciais de criação animal, que é o nosso objetivo.  
+
+Esse mesmo processo está sendo estendido para os demais biomas que abrigam fazendas fornecedoras. Já temos os mapas para os biomas Pantanal e Pampa, e em 2022 será concluído o da Mata Atlântica. Com isso, passaremos a ter completa cobertura de todas as áreas de fornecimento de gado no Brasil. 
+
+
+Transparência da cadeia
+Estamos conscientes de que ainda há um desafio a ser enfrentado na cadeia de produção brasileira de gado, especialmente na obtenção de informações de fornecedores indiretos. Nossa empresa é pioneira nessa área, pois solicitamos aos nossos fornecedores, por meio da ferramenta Request for Information (RFI), informações de produtores e fazendas das quais eles tenham adquirido animais previamente. 
+
+Priorizamos áreas para fortalecer as práticas de compras sustentáveis. Para isso, está sendo realizado , uma avaliação – tanto para a região da Amazônia quanto para as regiões de Cerrado e Mata Atlântica – sobre o uso atual de RFI. O levantamento acontece em parceria com a ONG AdT (Amigos da Terra - Amazônia Brasileira), instituição líder do GTFI (Grupo de Trabalho de Fornecedores Indiretos do Brasil), que inclui os principais players do mercado (produtores, indústria, varejistas e sociedade civil) e envolve toda a cadeia de produção de bovinos a partir da perspectiva sustentável, com foco especial nos chamados fornecedores indiretos. 
+
+O objetivo do estudo é avaliar como melhorar nossa ferramenta e a aplicação de novas tecnologias, como o Visipec. Estão sendo avaliadas também a aplicação das boas práticas preconizadas pelo GTFI, estabelecendo municípios e regiões prioritários. 
+
+Outra iniciativa inovadora é a parceria com a ONG Iniciativa para o Comércio Sustentável (IDH), dentro do programa Bezerro Sustentável, que visa obter informações desde o início da cadeia até o abate do animal. Por meio desta parceria, disponibilizamos assistência técnica diretamente aos produtores de bezerros do estado do Mato Grosso, tanto para adequações socioambientais quanto de zootécnicas e de produção, passando pela rastreabilidade dos animais, aplicadas desde o seu nascimento. Para ampliação do projeto, investiremos € 1,75 milhão até 2025. Em paralelo, iniciamos em 2021 os primeiros abates de gado procedente das fazendas que o integram. Adquirimos 1.071 animais com rastreabilidade completa, desde a etapa da cria, em linha com os objetivos que perseguimos com o Programa Marfrig Verde+.
+
+Compra responsável de gado
+Adquirimos proteínas bovinas de fazendas produtoras para processá-las em nossas unidades. Mantemos relações comerciais apenas com fornecedores que atuam em áreas legais, livres de desmatamento e fora de unidades de conservação ou terras indígenas. Também exigimos respeito aos direitos humanos, repudiando o uso de mão de obra análoga à escrava e infantil na cadeia de fornecimento. 
+
+É essencial que toda a nossa compra de animais para abate seja realizada atendendo aos critérios com os quais a empresa é comprometida. Para que essa etapa esteja de acordo com nossos padrões, é essencial também que compremos apenas de fornecedores responsáveis. Deve haver, portanto, a conjunção de todas as variáveis consideradas dentro do eixo Controle de Origem. 
+
+Para ser aprovada e autorizada a se tornar uma fornecedora de animais para a Marfrig, uma fazenda deve atender a requisitos referentes ao tipo de manejo adotado na propriedade, a boas práticas de conservação do meio ambiente – o que inclui o respeito aos critérios de desmatamento – e à conformidade legal da operação. 
+
+Esses princípios seguem uma política específica, desenvolvida com base nos compromissos assumidos pela empresa e em conformidade com os procedimentos relacionados ao Sistema Integrado de Gestão, Segurança Alimentar, Meio Ambiente e Direitos Humanos. 
+
+Dessa forma, 100% dos fornecedores que abatem animais com a empresa estão dentro dos critérios da compra responsável de gado. Ou seja, o produtor não pode integrar a lista de áreas embargadas pelo IBAMA (Instituto Brasileiro do Meio Ambiente) e nem ter registro de trabalho forçado ou compulsório (ser mencionado na “Lista Suja” divulgada pela Secretaria de Inspeção ao Trabalho, do Ministério da Economia). Em paralelo, deve apresentar documentos como comprovante de Registro de Regularidade Fundiária (SNCR), Cadastro Ambiental Rural (CAR), Carta de Garantia, Lista de Verificação Marfrig Club, Cadastro Fiscal e Guia de Trânsito Animal, entre outros. 
+
+Adicionalmente, monitoramos os fornecedores em cada unidade fabril, por amostragem, por meio de questionário baseado na norma internacional SA8000, de responsabilidade social. Com o preenchimento, os fornecedores prestam informações referentes à jornada de trabalho, remuneração adequada, condições apropriadas de trabalho, não utilização de trabalho infantil e não discriminação, seja ela de qualquer natureza. 
+
+Diante de qualquer irregularidade (não compliance), o fornecedor é impossibilitado de avançar na negociação com a Marfrig, permanecendo “bloqueado” até que a situação seja devidamente regularizada. Para esse processo de regularização, o produtor pode inclusive obter orientações através do nosso Programa de Regularização de Fornecedores. 
+
+Temos critérios que fazem parte dos procedimentos que adotamos para a compra de matéria-prima e estão em conformidade com os princípios relacionados ao nosso Sistema Integrado de Gestão, Segurança dos Alimentos, Meio Ambiente e Direitos Humanos. 
+
+Outros requisitos solicitados aos fornecedores: 
+
+  - Informar o tipo de manejo adotado na propriedade (ciclo de produção e alimentação dos animais); 
+  - Apresentar documentos como comprovante de Regularidade Fundiária (SNCR ou equivalente), Cadastro Ambiental Rural (CAR), Carta de Garantia, Lista de Verificação do Protocolo Marfrig Club e Guia de Trânsito Animal, entre outros; 
+  - Estar em conformidade legal com a operação (comprovada pela emissão de nota fiscal pelo produtor); 
+  - Adotar boas práticas de conservação do meio ambiente, o que inclui o respeito aos critérios de desmatamento; 
+  - Não integrar a lista de áreas embargadas pelo IBAMA (Instituto Brasileiro do Meio Ambiente) nem ter registro de uso de trabalho forçado ou compulsório (ser mencionado na “Lista Suja”, divulgada pela Secretaria de Inspeção ao Trabalho, do Ministério da Economia).for o caso.
+
+MARFRIG e IDH compartilham o objetivo de acelerar a sustentabilidade na cadeia de valor de 
+carne bovina por meio do desenvolvimento de soluções de impacto em larga escala e de longo 
+prazo que considerem coalizões multissetoriais de governos, sindicatos, produtores, instituições financeiras, empresas, ONGs e universidades que buscam o impacto para o bem comum.
+Em 13 de setembro de 2019, IDH e Marfrig assinaram uma parceria para desenhar uma “Solução 
+territorial para apoiar o estabelecimento de um programa de longo prazo para a produção 
+sustentável de bezerros e gado, bem como proteção da floresta no Bioma Amazônia”
+atrair recursos (públicos e privados, nacionais e internacionais) a serem investidos nas fazendas, com foco na implementação do Código 
+Florestal, intensificação dos sistemas de produção de bezerros por meio da implementação de práticas iLPF (Intensificação Lavoura, 
+Pecuária, Floresta), pagamento por serviços ambientais e manutenção dos compromissos de desmatamento zero.Estruturação de 
+Mecanismos Financeiros
+2
+apoiar a implementação das mudanças nas fazendas, incluindo nutrição animal, manejos de rebanho, cria, conformidade ambiental, registro de terras, outros. A AT incluirá a implementação dos protocolos de carne bovina de Baixo Carbono e Zero Carbono.Estruturação da 
+Rede de Assistência Técnica (AT)
+3
+que atenderá às necessidades e ambições de investidores, governos e sociedade e abordará os elementos do território em que o programa será implementado.
+Com base na abordagem PRODUÇÃO - 
+PROTEÇÃO - INCLUSÃO, a Marfrig deseja criar uma conexão mais próxima com os agricultores da cadeia de suprimentos, que vai além das relações comerciais, melhorando sua subsistência e mitigando os riscos de desmatamento.
+Para implementar essa visão, a Marfrig está estabelecendo um conjunto 
+de AÇÕES CONCRETAS que serão distribuídas nos próximos 10 anos:
+PROGRAMA DE 10 ANOS PARA ORIGINAÇÃO SUSTENTÁVELProjeto de um 
+Sistema de Monitoramento 
+de Fornecedores IndiretosOBJETIVOS
+DA PARCERIA 
+VISÃO DE10 ANOS (2030)FORNECEDORES
+DIRETOS
+(Nível 1)FORNECEDORES
+INDIRETOS
+(Nível 2 e 3)ABORDAGEM
+SETORIAL
+----
+Expandir a Política de 
+Compras e o sistema de 
+monitoramento para outros 
+biomas, promover a 
+integração da cadeia 
+pecuária para todos os 
+tamanhos e estágios de 
+produçãoDesenvolver mecanismos 
+de controle de origem para 
+fornecedores indiretos sob 
+uma abordagem de inclusão 
+apoiada por uma rede de AT 
+e mecanismos financeiros 
+para promover melhores 
+condições para pequenos e 
+médios produtoresEsforços coordenados entre 
+produtores, indústria, 
+varejistas, bancos, investi-
+dores e sociedade para 
+promover uma isonomia de 
+mercado que evite os riscos 
+de vazamento
+2022PLANO DE AÇÃO DE 5 ANOS
+e novas abordagens para a cadeia de valor da carne bovinaPROGRAMAS
+ESTRUTURADOS PARA 2030,
+com base nos resultados do Plano de Ação de 5 anos
+2025
+Curto prazo
+Ter uma visão 
+clara dos riscos 
+e contextoMédio prazo
+Abordagem da Marfrig para 
+originação sustentável 
+com base em soluções 
+implementadas2030
+Longo prazo
+Escalar  a abordagem de 
+originação sustentável 
+da Marfrig em toda a 
+cadeia de valor*
+Rastreabilidade
+Rastreabilidade ou controle de origem: É um dos pilares da Plataforma de Sustentabilidade da Marfrig. Isso corresponde aos mecanismos adotados pela empresa para rastrear o ponto de origem do gado na fazenda, desde a criação até o abate. Esses mecanismos podem incluir rastreabilidade individual (brincos, chips, etc.), tecnologias de block-chain, monitoramento do território, entre outros, selecionados de acordo com o nível de risco de cada região e as condições comerciais para os clientes. Os principais elementos cobertos pelo Controle de Origem incluem conservação da biodiversidade, cadeia de suprimentos livre de desmatamento, condições de trabalho, terras indígenas, entre outros critérios.*a cadeia de valor da pecuária é entendida como produtores, indústria de carne bovina, varejistas, bancos e investidores
+Fornecedores IndiretosFornecedores indiretos correspondem aos Níveis 2 e 3 da cadeia pecuária. O Nível 2 é geralmente a fase de recria (podendo incluir a fase de cria também), ou seja, duas fazendas antes do abate. O Nível 3 geralmente se refere apenas à etapa de cria, três ou mais fazendas antes do abate.Fornecedores Diretos
+Fornecedores diretos correspondem ao Nível 1 da cadeia pecuária. O Nível 1 são os fornecedores que entregam o gado aos locais de abate (todos eles têm a fase de engorda e, em alguns casos, também podem incluir as etapas de cria e recria), apenas uma fazenda antes do abate pela Marfrig
+ILP/ILPF
+A integração lavoura-pecuária-floresta (ILPF) é uma estratégia de produção que integra diferentes sistemas produtivos, agrícolas, pecuários e florestais na mesma área.
+https://www.redeilpf.org.br/index.php/rede-ilpf/o-que-e-ilpf
+DesmatamentoDesmatamento significa conversão por supressão de áreas de fisionomia florestal primária por ações antropogênicas (INPE) de 6,26 ha contíguos ou mais.
+http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes/pdfs/Metodologia_Prodes_Deter_revisada.pdfVSAVSA é um modelo inovador baseado no mercado e uma plataforma on-line que conecta a demanda por agro-commodities produzidas de forma sustentável com os avanços locais de sustentabilidade, com base na abordagem de território.
+https://www.idhsustainabletrade.com/landscapes/verified-sourcing-areas/
+BiomaO bioma é um conjunto de plantas e animais, que consiste no agrupamento de tipos de vegetação próximos e que podem ser identificados em nível regional, com condições geológicas e climáticas semelhantes e que, historicamente, passaram pelos mesmos processos de formação da paisagem, resultando em uma diversidade de flora e fauna próprias.
+https://cnae.ibge.gov.br/en/component/content/94-7a12/7a12-vamos-conhecer-o-brasil/nosso-territorio/1465-ecossistemas.html?Itemid=101.
+Expandir a Política de 
+Compras e o sistema 
+de monitoramento para 
+outros biomas, 
+promover a integração 
+da cadeia pecuária 
+para todos os 
+tamanhos e estágios de 
+produção
+D5. Reinserir 
+fornecedores bloqueados 
+no Bioma AmazôniaD1. Desenvolver e aplicar 
+um modelo de integração 
+para fornecedores de gado na Amazônia
+D2. Expandir o sistema 
+de monitoramento utilizado 
+no bioma Amazônia e adotar a política de compras adaptada ao bioma Cerrado
+D3.  Estabelecer um 
+Programa de AT para 
+restauração, intensificação e ILP
+D4. Analisar e 
+atualizar o Marfrig ClubD1.1 Estabelecer o modelo comercial/financeiro para integração
+D1.2 Estabelecer um modelo de integração sob a parceria com 
+IDH no Programa de Produção Sustentável de Bezerros
+D2.1 Estabelecer a metodologia para monitorar fornecedores 
+diretos no Cerrado
+D2.2 Implementar o sistema de geo-monitoramento no bioma Cerrado
+D2.3 Desenvolver e validar os critérios para bloquear 
+fornecedores diretos não conformes
+D5.1 Estabelecer estrutura técnica e legal com MPF/Imac para reintroduzir 
+fornecedores diretos na cadeia de suprimentos formal (curto prazo)
+D5.2 Estabelecimento de procedimentos para reinserção / reajuste
+D5.3 Plano de comunicação para divulgar a possibilidade de reinclusão
+D6. Expandir o 
+modelo de integração 
+para o bioma Cerrado
+D7. Política de compras 
+revisada para áreas de 
+alto risco identificadas pelo mapa de riscos dos fornecedores
+I1. Desenvolver e aplicar 
+os mapas de riscos de 
+criação e mitigação para fornecedores indiretos no bioma Amazônia
+I2. Apoiar programa de AT 
+para fornecedores indiretos para intensificação, restauração e regularização
+Desenvolver 
+mecanismos de controle 
+de origem para 
+fornecedores indiretos 
+sob uma abordagem de 
+inclusão apoiada por 
+uma rede de AT e 
+mecanismos financeiros 
+para promover melhores 
+condições para 
+pequenos e médios 
+produtores
+Esforços coordenados 
+entre produtores, 
+indústria, varejistas, 
+bancos, investidores e 
+sociedade para 
+promover uma isonomia 
+de mercado que evite os 
+riscos de vazamentoFornecedores 
+Diretos 
+(Nível 1)
+Fornecedores  
+Indiretos (Níveis 2 e 3)
+Abordagem SetorialBioma AmazôniaO Bioma Amazônia significa qualquer cadeia de suprimentos localizada em áreas definidas como Bioma Amazônia, conforme definido pelas definições e mapas de biomas do IBGE.
+https://www.ibge.gov.br/en/geosciences/environmental-information/18341-biomes.html?=&t=sobreGLOSSÁRIO
+Nível deengajamentoPLANO DE AÇÃO DE 5 ANOS PARA ORIGINAÇÃO SUSTENTÁVELPilares do MoU
+IDH-Marfrig
+Visão Objetivos SDGs Ações Prazo
+Assistência
+Técnica
+Mecanismos
+Financeiros
+Monitora-
+mento
+D4.4 Desenvolver elementos de conexão com o mercado para 
+reconhecer os produtores participantesD4.1 Analisar o conceito e o escopo alinhados aos requisitos relevantes 
+dos Investidores (FAIRR, IFC, etc.)
+D4.2 Revisar toda a documentação do Marfrig Club
+D4.3 Adaptação do protocolo do Marfrig Club e expansão para 
+fornecedores indiretos (Níveis 2 e 3)D3.1 Parceria com centros de pesquisa para o desenvolvimento de 
+modelos de AT para tecnologias de pecuária de baixo carbono 
+D3.2 Testar novas tecnologias com base em cadeia de blocos para 
+monitoramento e AT
+D3.3 Parceria com Geoflorestas focada em restauração
+D3.4 Desenvolver novos mecanismos financeiros para os produtores 
+participantes
+D7.1 Parceria com a CFA (Coalização Brasil, Clima, Florestas e 
+Agricultura) para avaliar e melhorar a abordagem de monitoramento da 
+cadeia de suprimentos e as políticas de compra da Marfrig
+D7.2 Desenvolver critérios para direcionar os fornecedores a mitigar os 
+riscos nas áreas de alto risco identificadas para fornecimento
+D7.3 Expandir os controles e critérios para fornecedores de áreas de 
+alto risco relacionadas a povos indígenas, comunidades tradicionais e 
+unidades de conservação
+I3. Desenvolvimento 
+de iniciativas no bioma 
+Amazônia para mitigação do risco de desmatamento
+I4. Desenvolver uma 
+solução de 
+monitoramento para 
+fornecedores Indiretos e 
+territórios nos biomas Amazônia e Cerrado
+I5. Melhorar a 
+lucratividade e o acesso 
+a financiamento para 
+pequenos agricultores
+I6. Estabelecer uma 
+rede de AT para 
+intensificação e restauração
+S1. Mitigar os vazamentos 
+resultantes do bloqueio de 
+fornecedores diretos - triangulação de gado, por meio do Protocolo Homogeneizado para Compra de Gado
+S2. Desenvolver 
+mecanismos setoriais para 
+o reconhecimento do Mercado de serviços ambientais (ex: carbono)
+S3. Integrar o controle 
+de origem animal com 
+dados ambientais
+S4. Estimular o 
+desenvolvimento de modelos 
+de AT pré-competitivos  de 
+longo prazo, para apoiar os 
+agricultores
+S5. Estimular o 
+desenvolvimento de novos 
+modelos de negócios envolvendo todos os atores da cadeia de valorI4.1 Estabelecimento de novas parcerias para testar soluções 
+disponíveis no mercado para monitoramento de fornecedores indiretos
+I4.2 Envolvimento nas iniciativas no nível de paisagem, para estabelecer 
+regiões para fornecimento sem desmatamento (abordagem VSA)
+I4.3 Estabelecer estrutura técnica e legal com MPF/Imac para reintroduzir 
+fornecedores indiretos na cadeia de suprimentos formal (médio prazo)
+I6.1 Expandir a rede de AT estabelecida no Programa de Produção 
+Sustentável de Bezerros para outros biomas e estados
+S1.1 Protocolo Homogeneizado para Compra de Gado na 
+Indústria de Carne Bovina
+S2.1 Parceria com Embrapa para aplicar e ampliar os protocolos 
+NCB e LCB
+S2.2 Identificar fazendas que se enquadram no protocolo e desenvolver 
+parcerias de AT para implementação pelos agricultores
+S2.3 Desenvolvimento de estratégias de marca e canais de distribuição 
+para produtos de carne bovina NCB e LCB certificados
+S3.1 Mediação com órgãos do setor público para a integração de dados 
+de controle animal e ambientais
+S3.2 Compartilhar os resultados das tecnologias e soluções testadas 
+pela Marfrig com os atores da cadeia de valor da pecuária
+S4.1 Fomentar a capacitação para AT dentro de organizações setoriais, 
+entidades de capacitação e empresas públicas de AT
+S5.1 Promover discussões setoriais e análises de mercado sobre o 
+papel de cada ator na cadeia de valor de carne bovina (produtores, 
+indústria, varejistas, bancos e investidores) na promoção de caminhos de produção sustentável (abordagem Produção-Proteção-Inclusão)
+S5.2  Estabelecimento de novas abordagens para a cadeia de valor 
+da carne bovina com base nos resultados da análise de mercadoS1.2 Catalisar ações setoriais adicionais para mitigar o risco de 
+triangulaçãoI5.1 Parceria com IDH no Programa de Produção 
+Sustentável de Bezerros
+I5.2 Estabelecimento de novas parcerias para o desenvolvimento de 
+mecanismos financeiros para pequenos agricultoresI3.1 Parceria com Amigos da Terra - Amazônia Brasileira para 
+desenvolver um programa usando soluções VISIPEC nas operações 
+da Marfrig para evitar triangulação de gado
+I3.2 Fomentar estudos independentes sobre os riscos e impactos das 
+atividades dos pecuaristas na cadeia de suprimentos da Marfrig sobre 
+povos indígenas, comunidades tradicionais e unidades de conservação
+I3.3 Envolvimento nas iniciativas no nível de paisagem, para estabelecer 
+regiões para fornecimento sem desmatamento (abordagem VSA)I1.1 Contratação de consultoria para conduzir o estudo de toda a cadeia de 
+suprimentos da Marfrig no Brasil, incluindo os biomas Amazônia e Cerrado
+I1.2  Identificar as áreas de risco para fornecimento
+I2.1 Parceria com IDH no Programa de Produção Sustentável 
+de BezerrosD6.1 Mapear a dinâmica do Mercado no bioma Cerrado, usando o 
+mapa de riscos de mitigação dos indiretos
+D6.2 Adaptar o modelo de integração desenvolvido para o 
+bioma Amazônia
+D6.3 Estabelecer um programa de modelo de integração no Cerrado2020
+
+Protocolo Homogeneizado para Compra de Gado
+na Indústria de Carne Bovina
+Reinserção de fornecedores bloqueados (diretos no curto prazo e 
+indiretos no médio prazo - soluções de monitoramento para os agricultores)
+Avaliação e aprimoramento da abordagem de monitoramento da 
+cadeia de suprimentos da Marfrig com base na avaliação da documentação e do processo. É uma iniciativa da CFA da qual a Marfrig participará
+Prestador de serviços contratado para desenvolver o mapa 
+de risco de fornecedores indiretos no bioma Amazônia
+Marfrig é uma das 8 organizações fundadoras do Instituto 
+PCI, uma associação público-privada reconhecida como implementadora oficial da Estratégia PCI do Estado de Mato Grosso
+Desenvolvimento e teste de um aplicativo da block-chain para 
+relatar informações zootécnicas e ambientais à indústria da carne bovina - 
+informada pelo produtor - a Marfrig contribuiria com o sistema de geo-monitoramento, indicando a situação ambiental e as necessidades de regularização
+Parceria com Amigos da Terra - Amazônia Brasileira para 
+aplicar a solução Visipec para evitar a triangulação de gado e testar a 
+solução nas operações da Marfrig
+Consultoria contratada para conduzir a análise do Protocolo 
+Marfrig Club
+Provedor de serviços de geo-monitoramento - pode ser um futuro 
+parceiro para AT de restauração
+Parceria para testar e ampliar os protocolos CCN e CBCMAPA DE
+PARCERIAS ATUAIS
+
