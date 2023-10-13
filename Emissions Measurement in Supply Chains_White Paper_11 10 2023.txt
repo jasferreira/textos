@@ -1,0 +1,166 @@
+Executive summary
+Measuring and reporting emissions in supply chains is a key tool for decarbonization, but currently challenging to implement.
+Increased visibility of supply chain emissions can make a critical contribution to decarbonizing the global economy. It can inform corporate decisions around procurement, product design, or R&D, as well as financial decision-making by investors. These promises cannot be realized if market actors are unable to meet reporting requirements, or if the resulting data are not trustworthy. Policymakers must therefore carefully navigate the question of supply chain emissions measurement.
+In addition to measuring and reporting on their direct emissions (Scope 1) and indirect emissions from purchased energy (Scope 2), companies are increasingly being expected to track emissions from upstream and downstream activities in their value chains (Scope 3). 
+Scope 3 reporting has largely been voluntary, driven by consumer, buyer, investor, employee and civil society expectations. However, a number of regulatory initiatives are underway to make this mandatory.
+Commonly used reporting standards provide some guidance, but challenges remain as reporting approaches proliferate; companies determine different emission boundaries, calculation and allocation methods; primary data is often costly, inaccurate or unavailable; and certification mechanisms are not yet well established. The complexity of global supply chains exacerbates these challenges. 
+Business interviews highlighted sector-specific challenges to measurement and reporting:
+- Agriculture and food: Farm production is fragmented; differences in geography and biological systems affect emissions, which complicates estimates; comparability is difficult where calculation methods vary; and small producers lack the capacity to provide data. 
+- Mining: Downstream emissions reporting remains elusive due to the lack of verified data, varied standards and limited incentives to work with downstream actors; and for iron-ore and coal producers, the steel industry is an important customer but has a number of different standards.   
+- Steel: There is a lack of common standards and incomplete reporting; production processes and technologies vary, as do their environmental impact. As a share of total emissions, Scope 3 is lower and downstream reporting not well developed.
+
+However, there is progress too. Industry initiatives have played an important role in testing different measurement approaches and gradually bringing about alignment among members in some sectors.
+Well-functioning, interoperable systems for measuring emissions can support decarbonization of the global economy. They must balance accuracy with feasibility, particularly for small and medium-sized enterprises (SMEs) and firms in developing countries. Otherwise, there is a real risk of measurement and reporting obligations acting as barriers to trade for these firms and producers. 
+Key questions for policymakers and the broader community include:
+- How to strike the right balance between accuracy and feasibility?
+- How can governments support the development of common standards? 
+- How can governments encourage inter-operability?
+- How will reporting be verified?
+- How can SMEs and firms in developing countries be supported?
+- How can digital tools help?
+
+
+
+Introduction
+
+More and more firms are asked to measure emissions in their supply chain – but poor data and inconsistent standards currently make this harder than it should be. 
+Context 
+Companies are increasingly expected to measure, report and act on emissions occurring in their supply chains. These expectations come from consumers, business partners, regulators, investors, employees, and civil society. 
+* "There are many reasons for collecting Scope 3 emissions data: growing consumer awareness; growing demand for transparency from civil society; new legislation such as the Corporate Sustainability Reporting Directive; and our commitments with the Science-Based Targets initiative."
+   Leading food and drink manufacturer
+
+For example, in addition to reporting on their direct greenhouse gas emissions (Scope 1) and indirect emissions from purchased energy (Scope 2), firms are increasingly reporting emissions associated with upstream and downstream activities in their value chains (Scope 3 emissions). The concept of Scope 3 is broader than supply chain emissions, as it also includes for instance, employee commuting and emissions associated with investments.1 In most sectors, however, supply chain emissions (such as purchased goods and services, upstream and downstream transport and distribution, and the use of sold goods) form the bulk of firms’ Scope 3 emissions.2
+Until recently, Scope 3 reporting was voluntary, with many businesses doing so to gain a competitive advantage through better insights, to attract sustainability-focused investors, and to demonstrate their commitment to environmental sustainability. However, major developments are underway towards mandatory Scope 3 reporting (Figure 2). 
+
+In addition to firm-level reporting, supply chain emissions are also relevant for determining product carbon footprints (PCF). There is growing demand for PCF data as input in Scope 3 calculations. The International Organization for Standardization (ISO) standard ISO 14067: 2018 sets out specifications for reporting PCF considering the full life cycle of a product.3 ISO also has other specific emissions reporting standards (e.g. for steel). A recent regulatory development, the EU Carbon Border Adjustment Mechanism (CBAM), requires certain firms to report product-level emissions, including embedded upstream emissions. (See Box 1.)
+
+CBAM, which came into force on 1 October 2023, requires importers to report on direct and indirect emissions embedded in certain goods imported into the EU.4 Following a transition period, importers will have to start paying levies from 1 January 2026 on carbon-intensive imported goods equivalent to those charged to domestic goods under the EU’s Emissions Trading Scheme (ETS). Cement, electricity, fertilisers, iron and steel, aluminium and hydrogen are currently covered, with plans to cover all sectors that fall under the ETS by 2030. For many of the sectors covered by CBAM, the regulation notes the relevant ‘precursors’ (material inputs) whose emissions need to be included in the reported embedded emissions of the imported good.
+The European Commission has adopted an implementing regulation regarding reporting obligations during the transition period and accompanying guidance for importers and foreign producers.5 Companies can report in one of three ways, namely, 1) by determining emissions based on activity data and calculation factors or based on the continuous measurement of the relevant GHG in the flue gas (the EU’s methodology); 2) an equivalent method based on a carbon pricing scheme or emissions monitoring scheme where the installation is located (until December 2024); or 3) using default reference values (until July 2024). For complex goods, there is some leeway: 20% of embedded emissions may be reported based on estimates by operators of installations.6
+Understanding supply chain emissions can be a powerful lever for climate action (Figure 2). For example, just eight supply chains are responsible for 50 percent of global emissions,7 and scope 3 accounts for 75% of companies’ emissions on average.8 
+While greater transparency on supply chain emissions can be a powerful lever for decarbonization, it also comes with a number of challenges and may require significant company efforts. 
+Challenges
+Existing standards provide essential guidance, but measuring supply chain emissions still entails many choices: for example, appropriate emissions boundaries need to be determined, and companies may need to choose whether to use a spend-based approach, average data, or supplier-specific estimates. 
+Ideally, supply chain emissions would be tracked using reliable firm-specific primary data, but these can be difficult and costly to obtain. Data quality, accuracy and availability pose significant challenges. Suppliers and customers may not always disclose their environmental data, including due to privacy concerns or concerns about revealing sensitive business information. Data may not be available in real-time, or the data may be incomplete or inconsistent. Data quality can vary significantly depending on the region, industry, and individual supplier, leading to potential inaccuracies. 
+Calculation methodologies may differ, and emissions factors – the ratio between the pollutant emitted and the activity conducted – may be subject to variations in time, location, or other variables. At the moment, emissions factors used are often based on industry averages rather than supplier-specific emission factors, which take significant research to build.   
+The growing demand for firm-specific information also requires firms to allocate their enterprise- or plant-level emissions across different products or services. The choice of allocation method can again be complex and may influence the results.  Firms also often need to report to a wide range of stakeholders, who may require different reporting formats. 
+The complexity of supply chains amplifies these challenges. Some firms have thousands of direct suppliers, and when preceding stages of the supply chain are included, many more suppliers may be involved indirectly. Reporting requirements may also be disproportionately heavy on small and medium-sized businesses and firms in developing countries.
+Based on interviews with industry experts, this paper provides an overview of supply chain emissions measurement and reporting approaches in three sectors – agriculture and food; mining; and steel. It offers a snapshot of the preparedness and challenges of supply chain emissions reporting. The paper concludes with key questions for policymakers, particularly trade and economic officials, to consider.
+
+1. Sectoral snapshots
+
+Business interviews highlight that firms increasingly measure supply chain emissions – but encounter practical challenges. 
+1.1 Agriculture and food
+
+Food supply chain emissions 
+
+The global food supply chain accounts for an estimated one-third of total man-made emissions.9 The vast majority of these emissions occur through land use change (e.g., deforestation to clear land) and farm production (e.g., emissions from fertilizer use or cattle 'burps'). 
+
+Recent years have seen strong growth in initiatives to measure and communicate environmental impacts of food products, including not only greenhouse gas emissions but also water use, water pollution, biodiversity impacts, and more.10 
+
+While some efforts are linked to regulatory developments (like the EU Corporate Sustainability Reporting Directive (CSRD), which requires many firms in the EU to report Scope 3 emissions), often firms were already quantifying their Scope 3 emissions for other reasons, such as consumer demand or to manage climate risks. Export-oriented firms interviewed for this paper indicated expectations among foreign buyers as a more important factor than government policy. 
+
+Reporting Standards in the Agri-Food Sector
+
+As in other sectors, emissions reporting in the agri-food sector typically draws on GHG Protocol and ISO standards, complemented with sector-specific guidance (see Figure 3).11 GHG Protocol is currently developing its Land Sector and Removals Guidance which will explain how firms should account for emissions and removals from land use and biogenic products (among other issues).12 Sector organisations have also produced specific carbon footprint standards for dairy and for beef.13 
+
+Fragmented suppliers and variability
+
+The agriculture and food sector faces some unique practical challenges in estimating emissions. Measurement of emissions is difficult, in part because farm production is highly fragmented: globally, there are more than 600 million farms.14 
+
+Another factor complicating emissions measurement is that differences in e.g. soils, climate, or weather conditions can affect emissions. Emissions measurement thus often uses modelled estimates, which can vary from high-level approximations (e.g. average emissions factors) to more granular, bottom-up calculations using farm-level data.15 
+
+Primary versus secondary data
+
+Retailers around the globe are increasingly tracking Scope 3 emissions and signing up to the Science-Based Targets initiative (SBTi). Food-related emissions are often the largest component of their upstream scope 3 emissions. Retailers are also responding to increased consumer interest in carbon footprints with a push towards eco-labels. A leading European retailer explained that its Scope 3 estimates for agriculture and food are currently a modelled estimate, using emissions factors to multiply the purchased volumes, but that work is underway to refine this using more granular secondary data and even primary data for farmers producing for the retailer’s private label. Gathering primary data for its private-label fresh milk came in at less than 1% of the total production cost, but these costs could go up if greater granularity and product coverage was required. Moreover, information is harder to obtain for products sold through global supply chains, like tropical fruit. Emissions calculation models can vary too, which makes it difficult for retailers to compare numbers. One leading food and drink manufacturer explained that their Scope 3 calculations currently use emissions factors from the scientific literature rather than primary data, as they worry that using supplier-provided data might introduce more measurement error. 
+
+* "We are facing big challenges with regards to the comparability of carbon data. Depending on the supply chain, we try to use a single tool for all our growers/farmers. However, in international supply chains the challenge is much higher. Many suppliers ended up developing in-house solutions. This has created an issue in the sense that the data is really difficult to use for benchmarking suppliers."
+   Leading European retailer
+
+Interviews with companies exporting beef and dairy products revealed that these firms are investing in emissions tracking, in part linked to customer demand further down the supply chain. This often relies on farm-specific carbon footprint estimates. One interviewee emphasised that the real barriers here are not about cost, but rather about execution, capacity, access to data, and the like. Another firm described partnering with a research institute to develop more accurate emissions factors, as well as using traceability and satellite technology to increase accuracy. 
+ 
+Reporting proliferation 
+
+Many interviewees expressed concern about a fragmented reporting landscape. Industry platforms could play a role in helping to unify the reporting process. Mandatory disclosures could support such efforts by streamlining a fragmented landscape – or could undermine them if different jurisdictions adopted different requirements. 
+
+* "A lot of resources are spent on reporting on the same metrics in different ways. Stakeholders, investors, customers… all have different requirements for how we report the data. This situation often leads to confusion among non-experts. As a consumer-facing company, we worry that it may reduce trust in our reporting."  
+   Leading food and drink manufacturer
+
+1.2 Mining
+
+Mining, the extraction of valuable materials from the earth, serves as the foundation for numerous supply chains, spanning manufacturing, agriculture and energy products. The mining industry itself encompasses a multifaceted supply chain, including extraction, processing, grading and distribution of raw materials. Each stage presents opportunities for decarbonization through operational efficiency, electrification and renewable energy integration.16 Mining is central to the clean energy transition given the essential role of metals and minerals in low-carbon technologies (such as EV batteries, solar panels or wind turbines).17
+Scope 1 and 2 emissions in the mining sector account for less than 10% of total emissions by the sector18 and are only significant in the processing stage for certain products. Scope 3 emissions include emissions related to R&D activities, machinery usage and raw material transportation. However, most Scope 3 emissions occur downstream in customer industries, complicating the assessment. 
+Reporting standards in mining
+The mining industry’s diverse product range and processing methods have led to the development of multiple methodologies and standards for carbon measurement that are not always fully aligned. While the GHG Protocol and ISO standards form the basis, their broad principles are subject to various interpretations when implemented for specific products or production ‘routes’, causing discrepancies across companies and products.
+However, convergence is anticipated with emerging financial disclosure mandates and the launch of the new International Sustainability Standards Board (ISSB) standards that incorporate the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD). Additionally, initiatives like the International Council on Mining and Metal’s (ICMM) alignment exercise and the Coalition on Materials Emissions Transparency (COMET) aim to create a harmonized GHG calculation framework applicable to all mineral supply chains.19 One interviewee recognised that a more evolutionary process towards convergence was necessary as the industry tested different methodologies before alignment was possible.
+Downstream Scope 3 emissions challenges
+The mining industry’s Scope 3 reporting for downstream industries remains in its infancy, relying predominantly on estimates rather than verified data. While incentives exist to work with upstream suppliers to monitor carbon footprints and to introduce low-carbon technologies, the downstream scenario differs. As one industry expert noted, there is a perceived lack of control and incentive to monitor emissions when the onus of decarbonization lies with another sector. Varied standards in downstream industries further complicate data collaboration. However, the push towards SBTi targets, which mandate the inclusion of scope 3 emissions when they exceed 40% of a company’s total emissions, is gradually changing this landscape. 20
+* "Scope 3 reporting is mainly upstream. We are not looking that much at the downstream side. This is still voluntary but will become mandatory."  
+   Industry association
+
+Inter-industry interoperability: Mining and steel
+For mining firms producing iron ore and coal, the steel industry is a primary customer and a significant carbon emitter. The lack of consensus on carbon measurement in the steel industry (see next case study), coupled with a plethora of standards, poses challenges. Developing product-level data, such as Life Cycle Assessment (LCA) methods, becomes arduous when there is no good alignment of measurement methodologies and definitions of products across the supply chain. Another issue is the potential for double counting when adding the emissions of iron ore, coal and steel companies that belong to the same supply chain. There are technical solutions, but they rely on the use of comparable data.
+* "For some of our customers, there is not a lot of confidence in the accuracy of the reporting, while some other customers may not report at all. Aggregating this information is difficult (…). If all companies downstream reported scope 1 and 2 emissions reliably, then our scope 3 reporting would be easier."  
+   Leading mining company
+
+1.3 Steel
+
+According to International Energy Agency (IEA) data, the steel industry accounts for around 2.8 gigatonnes of CO2 emissions per year, equal to 8% of global energy emissions.21 Moving to net-zero emissions will require important transformations in technologies, processes and sourcing strategies. Vast quantities of capital will need to be directed towards this effort. 
+Figure 4: Snapshot of statistics for the steel industry
+ 
+Source: Authors, based on worldsteel (2020)22, worldsteel (2022)23, Global Energy Monitor (2023)24, H2 Green Steel (2023)25. 
+As the production of steel is intensive in energy, the sector has important Scope 1 and 2 emissions. However, their level depends on the production process and type of supply chain. There are three main steel-producing ‘routes’: (1) integrated production from iron ore using blast furnaces for ironmaking and then basic oxygen furnaces for steelmaking; (2) secondary production from scrap steel using electric arc furnaces (EAF); and (3) production based on direct reduced iron, also using EAF. On average, EAF produces 85 percent less C02 per tonne of steel. Recycling steel (scrap-based production) also lowers the carbon footprint, but there is currently not enough scrap to cover an increasing world demand for steel.
+Emissions downstream are also significant since steel inputs are used in a variety of final industries, such as construction or motor vehicles. Steel producers are also increasingly under pressure to provide information on their carbon footprint to customers. These requests are typically at the product level, while regulatory requirements are more likely to target facility or corporate level. 
+Different measuring sticks
+While companies interviewed highlighted the importance of developing common standards and methodologies for carbon emission measurement to track progress and drive efforts towards decarbonization, the state of play remains fragmented. 
+The World Steel Association (worldsteel) has developed a CO2 methodology for site-level emissions that aims to be a practical tool adapted to all steel-producing routes. A second set of standards for carbon measurement comes from ISO and builds on worldsteel work. However, the ISO 14404 series has separate standards for each of the three ‘routes’. Finally, a third set of standards comes from the ResponsibleSteel initiative which also provides certification and independent verification. 
+All these standards follow the definitions and principles of the GHG Protocol. However, they differ in scope for the emissions reported, particularly when it comes to Scope 3. In addition, they do not always align in terms of emission factors and provide different calculation methods that create comparability issues across production routes.26 There is no harmonisation of product-level reporting standards either. 27 
+Limited reporting 
+Industry experts interviewed for this paper expressed concern that the absence of common measurement standards would complicate the implementation of new regulatory requirements – including those linked to financial disclosure, due diligence reporting, the EU’s ETS and CBAM. The current landscape also fails to equip steelmakers to accurately undertake Scope 3 reporting for increased investor and buyer interest (linked to SBTi target setting). Finally, differences in measurement methods and incomplete reporting are also an obstacle to the development of new standards for ‘green’ steel (or low-carbon steel) for which there is no clear price premium at this stage.
+Heterogeneity in production and decarbonization pathways
+Differences in technologies and production processes, their environmental impact and prospects for decarbonization, are factors that contribute to explain why it is more difficult to converge on common carbon measurement standards in the steel industry.28 However, as one interviewee noted, there might be several definitions and methodologies; but what is important is the comparability of the underlying data collected and the inter-operability across definitions. 
+* "We can’t spend another half decade on how to measure carbon emissions. We need to get on with it and agree on the cornerstones. (…) It would be a disservice to the world and the industry if we are still discussing how to measure carbon in 2030."  
+   Leading steel manufacturer
+
+
+
+2. Implications
+Public-private cooperation is needed for well-functioning measurement systems that balance accuracy and feasibility and are inter-operable.
+Policymakers must carefully navigate the question of supply chain emissions measurement. Increased visibility of supply chain emissions can make a critical contribution to decarbonizing the global economy. It can inform corporate decisions around procurement, product design, or R&D, as well as financial decision-making by investors. Greater visibility on supply chain emissions could also enable more effective policy support for green products, through economic incentives, public procurement requirements, or trade preferences. These promises cannot be realized if market actors are unable to meet reporting requirements, or if the resulting data are not trustworthy. 
+It can be costly and difficult to obtain accurate Scope 3 emissions estimates, and the available estimates can vary depending on choices made around definitions, boundaries, materiality, or measurement approaches, among other factors. This variability will challenge trade policy makers if supply chain emissions are used as a basis for market access or preferences, as is the case in the EU’s CBAM. Supply chain emissions measurement obligations could also emerge as non-tariff barriers since suppliers will need to help lead firms satisfy financial disclosure and due diligence reporting requirements. Small firms may find implementation prohibitively costly and poorer countries may find themselves eliminated from market access. Widespread industry target setting around Scope 3 could have a similar effect. 
+In the case of measures imposed by governments, the WTO’s Technical Barriers to Trade (TBT) Agreement allows other WTO members to challenge technical regulations, standards and conformity assessment procedures if these are discriminatory or if they are more trade restrictive than necessary to fulfil a legitimate public policy objective (such as the protection of the environment). To avoid such outcomes, members are encouraged to base their measures on internationally recognized standards.29 
+2.1 Features of well-functioning measurement systems
+Well-functioning, interoperable systems for measuring supply chain emissions can be an enabler for decarbonizing the global economy. The following have been identified as important features, recognizing that there may be trade-offs among them.
+Accuracy
+Accurate estimates would make it possible to benchmark suppliers, and to track firms’ progress in decarbonising their own activities and their supply chains. They would allow firms and governments to integrate carbon footprints into procurement processes and would empower consumers to make more sustainable choices. Accurate data would also facilitate firms’ access to finance. By contrast, building a reporting system around weak data carries important risks: firms and financial intermediaries could end up being accused of green washing, and consumers and voters would lose trust.
+ 
+Feasibility  
+Costs and time spent on measuring and reporting should remain manageable for companies, particularly for small and medium-sized enterprises and firms in developing countries. Some interviewees noted that there are diminishing returns after a point, and that the cost and personnel time spent on measuring and reporting should not become a distraction from the actual work of decarbonizing supply chains. IT solutions need to be developed to facilitate the exchange and comparability of data. Thought should be given and support provided to capacity building programmes for exporters in developing economies. 
+Interoperability
+Standardized methodologies and interoperable technical systems for exchanging carbon footprint data are critical infrastructure on the path to Net Zero. The basic outline of a standardized system is in place, notably through the GHG Protocol and ISO standards. At the same time, the existing standards still leave many technical questions unanswered, and different answers lead to inconsistent emissions estimates. More work is needed to make sure that various approaches to measure emissions are inter-operable across industries.
+2.2 Existing initiatives point in the right direction
+Several industry initiatives have emerged to help tackle these challenges. In chemicals, for example, Together for Sustainability (TfS) has developed a detailed guideline for product carbon footprints of chemical products30 and is piloting a data-sharing solution to enable firms in the industry to safely share upstream carbon footprint data. In logistics, the Global Logistics Emissions Council (GLEC) similarly developed a framework to harmonize the calculation of logistics emissions across different modes of transport. 
+In other sectors such as steel, however, progress has been slow so far. In the agri-food sector, too, different calculation methods co-exist, which currently makes it difficult to make meaningful comparisons. 
+However, across the supply chain, efforts are underway to improve emissions measurement. For example, the Partnership for Carbon Transparency (PACT), hosted by the World Business Council for Sustainable Development (WBCSD), has developed cross-sectoral guidance for emissions reporting along supply chains, and is also working to ensure interoperability of technological solutions.31
+* "Policy makers do not sufficiently understand what is happening. This is a new language to them. The nexus of trade and sustainability is increasingly important, and policy makers are not really aware of how fast things are changing." 
+   Large dairy processor
+
+2.3 Key questions for future dialogue
+The following represent a set of key questions policymakers and a broader community may wish to consider in this area going forward. 
+* How to strike the right balance between accuracy and feasibility?
+o A relatively accurate measure of carbon emissions along supply chains is useful but must be weighed against costs and practical realities in different sectors and contexts. Efforts to improve the measurement of supply chain emissions should not become a distraction from the actual work of decarbonization.
+
+* How can governments support the development of common standards? 
+o Governments may not need to take a leading role in standard setting where industry convergence emerges. Where industry convergence has proved challenging, technical discussions could take place with the private sector in an intergovernmental format, considering scientific and civil society input. 
+
+* How can governments encourage inter-operability?
+o Inter-operability across industries and countries is key. There is a trade-off between accounting for differences and specificities of each sector, and having simple methods that can be applied across products, firms and countries. Once convergence has been achieved in one industry, there should be ‘interfaces’ to other industries and their own converged standards. PACT and COMET may serve as examples.
+o When introducing regulations that touch upon emissions measurement (carbon markets, financial disclosure, carbon taxes or border adjustments, due diligence, etc.), governments should build on existing approaches and standards, and engage with the private sector and civil society organizations, to maximize inter-operability.
+
+* How will reporting be verified?
+o Independent verification of reported emissions will be important for regulatory compliance, and to provide credible data to business partners, investors, and civil society stakeholders. This points to a growing role for conformity assessment and assurance providers (e.g., auditors; testing, inspection and certification (TIC) companies; other independent providers).
+
+* How can SMEs and firms in developing countries be supported?
+o The impact of emissions measurement and reporting obligations (de jure and de facto) on SMEs and on firms in developing countries should not be underestimated. If managed well and transparently, with adequate support and flexibilities, the growing trend towards measuring supply chain emissions could help these actors decarbonize. If not, they could lead to negative impacts on livelihoods - and little impact on decarbonization. 
+
+* How can digital tools help? 
+o One way to reconcile accuracy and feasibility in measuring supply chain emissions is through digital tools which automate as much as possible the necessary calculations and data transmissions. These tools can also provide an audit trail for verification. Industry initiatives such as TfS and PACT recognize the importance of an ecosystem of inter-operable digital tools. Policy makers, too, should study how digital tools can be used to facilitate compliance with mandatory disclosure. Where industry is unable to converge on a data exchange standard, governments should organize technical discussions with relevant stakeholders. 
